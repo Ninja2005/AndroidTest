@@ -22,7 +22,7 @@ import static org.mockito.Mockito.when;
  * 作    者: Created by gyd
  * 创建时间: 2019/8/14 16:05
  * 文件描述: Mockito框架
- * 注意事项: https://blog.csdn.net/qq_17766199/article/details/78450007
+ * 注意事项:
  * 版权声明:
  * ****************************************************************
  */

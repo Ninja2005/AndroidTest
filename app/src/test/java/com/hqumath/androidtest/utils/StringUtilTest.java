@@ -15,7 +15,7 @@ import static org.junit.Assert.assertTrue;
  * 文件名称: StringUtilTest
  * 作    者: Created by gyd
  * 创建时间: 2019/8/15 14:42
- * 文件描述:
+ * 文件描述: 基础
  * 注意事项:
  * 版权声明:
  * ****************************************************************
