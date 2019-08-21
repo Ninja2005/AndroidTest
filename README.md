@@ -15,9 +15,12 @@
     @RunWith(AndroidJUnit4.class)
 
     2. 指定测试的运行时长以及运行频率
-    @SmallTest  不允许文件文件、数据库、网络。运行时间200ms
-    @MediumTest 访问文件、数据库。运行时间1000ms
-    @LargeTest  访问文件、数据库、网络，大多数的UI测试。运行时间1000ms
+    
+        @SmallTest  不允许文件文件、数据库、网络。运行时间200ms
+    
+        @MediumTest 访问文件、数据库。运行时间1000ms
+        
+        @LargeTest  访问文件、数据库、网络，大多数的UI测试。运行时间1000ms
 
 - **测试框架**
 
