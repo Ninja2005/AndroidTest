@@ -2,7 +2,6 @@ package com.hqumath.androidtest;
 
 import android.content.Intent;
 
-import com.hqumath.androidtest.R;
 import com.hqumath.androidtest.ui.LoginActivity;
 import com.hqumath.androidtest.ui.MainActivity;
 
