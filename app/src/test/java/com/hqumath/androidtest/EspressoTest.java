@@ -36,7 +36,7 @@ import static org.junit.Assert.assertNotNull;
 @RunWith(AndroidJUnit4.class)
 public class EspressoTest {
 
-    public static final String STRING_TO_BE_TYPED = "Espresso";
+    private static final String STRING_TO_BE_TYPED = "Espresso";
 
     // Context of the app under test.
     private Context context = ApplicationProvider.getApplicationContext();
