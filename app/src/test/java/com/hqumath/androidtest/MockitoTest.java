@@ -1,4 +1,4 @@
-package com.hqumath.androidtest.utils;
+package com.hqumath.androidtest;
 
 import android.content.SharedPreferences;
 import org.junit.After;
@@ -18,7 +18,7 @@ import static org.mockito.Mockito.when;
 
 /**
  * ****************************************************************
- * 文件名称: SPUtilTest
+ * 文件名称: MockitoTest
  * 作    者: Created by gyd
  * 创建时间: 2019/8/14 16:05
  * 文件描述: Mockito框架
@@ -27,7 +27,7 @@ import static org.mockito.Mockito.when;
  * ****************************************************************
  */
 @RunWith(MockitoJUnitRunner.class)
-public class SPUtilTest {
+public class MockitoTest {
     private static final String KEY_NAME = "key_name";
 
     @Mock

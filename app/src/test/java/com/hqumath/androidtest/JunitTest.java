@@ -1,4 +1,6 @@
-package com.hqumath.androidtest.utils;
+package com.hqumath.androidtest;
+
+import com.hqumath.androidtest.utils.StringUtil;
 
 import org.junit.After;
 import org.junit.Before;
@@ -12,15 +14,15 @@ import static org.junit.Assert.assertTrue;
 
 /**
  * ****************************************************************
- * 文件名称: StringUtilTest
+ * 文件名称: JunitTest
  * 作    者: Created by gyd
  * 创建时间: 2019/8/15 14:42
- * 文件描述: 基础
+ * 文件描述: JUnit4框架
  * 注意事项:
  * 版权声明:
  * ****************************************************************
  */
-public class StringUtilTest {
+public class JunitTest {
 
     @Before
     public void setUp() throws Exception {

@@ -4,6 +4,8 @@
     <string name="user_name">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="copy">copy</string>
+
     <string name="user_name_warning">Invalid username!</string>
     <string name="password_warning">Invalid password!</string>
 </resources>
